@@ -1,1 +1,2 @@
-This is an example of a basket dataset, on which I applied the apriori algorithm to extract the association rules
+Schools dataset
+This file is the dataset of the research called "Educational Data Mining and Analysis of Students' Academic Performance Using WEKA"
